@@ -1,0 +1,44 @@
+package Clases;
+import java.util.List;
+public class Combo {
+    private int idCombo;
+    private String combo;
+    private double precioCombo;
+    private List<Detalle> detalle;
+
+    public Combo() {
+    }
+
+    public int getIdCombo() {
+        return idCombo;
+    }
+
+    public void setIdCombo(int idCombo) {
+        this.idCombo = idCombo;
+    }
+
+    public String getCombo() {
+        return combo;
+    }
+
+    public void setCombo(String combo) {
+        this.combo = combo;
+    }
+
+    public double getPrecio() {
+        return precioCombo;
+    }
+
+    public void setPrecio(double precioCombo) {
+        this.precioCombo = precioCombo;
+    }
+
+    public List<Detalle> getDetalle() {
+        return detalle;
+    }
+
+    public void setDetalle(List<Detalle> detalle) {
+        this.detalle = detalle;
+    }
+    
+}
