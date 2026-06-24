@@ -1,4 +1,4 @@
-# Restaurante2 - SANTO ANTOJO
+# Restaurante - SANTO ANTOJO
 
 Sistema de gestión de restaurante de escritorio desarrollado en Java Swing. Permite tomar pedidos, gestionar productos y combos, administrar usuarios y roles, y generar tickets en PDF.
 
